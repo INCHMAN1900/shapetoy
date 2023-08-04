@@ -11,4 +11,6 @@ a toy project to manipulate shapes.
 
 or you can make animations from it.
 
-![animation1](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation.gif)
+![animation1](https://github.com/INCHMAN1900/shapetoy/blob/main/triangle-animation.gif)
+![animation2](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation.gif)
+
