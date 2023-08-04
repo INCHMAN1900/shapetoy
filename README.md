@@ -1,7 +1,7 @@
 # shapetoy
 a toy project to manipulate shapes.
 
-[Download Shapetoy](https://github.com/INCHMAN1900/shapetoy/releases/tag/1.0)
+[Download Shapetoy](https://github.com/INCHMAN1900/shapetoy/releases)
 
 ### examples
 
