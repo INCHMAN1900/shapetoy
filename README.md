@@ -13,9 +13,10 @@ a toy project to manipulate shapes.
 
 or you can make animations from it.
 
-![animation1](https://github.com/INCHMAN1900/shapetoy/blob/main/triangle-animation.gif)
-![animation2](https://github.com/INCHMAN1900/shapetoy/blob/main/hexagram-animation.gif)
-![animation3](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation.gif)
-![animation4](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation-2.gif)
-![animation5](https://github.com/INCHMAN1900/shapetoy/blob/main/hexagram-animation-2.gif)
+![animation1](https://github.com/INCHMAN1900/shapetoy/blob/main/glowing-circles.gif)
+![animation2](https://github.com/INCHMAN1900/shapetoy/blob/main/triangle-animation.gif)
+![animation3](https://github.com/INCHMAN1900/shapetoy/blob/main/hexagram-animation.gif)
+![animation4](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation.gif)
+![animation5](https://github.com/INCHMAN1900/shapetoy/blob/main/circle-animation-2.gif)
+![animation6](https://github.com/INCHMAN1900/shapetoy/blob/main/hexagram-animation-2.gif)
 
